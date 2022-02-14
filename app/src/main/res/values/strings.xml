@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AndroidAssessment</string>
+    <string name="pencil">Pencil to draw</string>
+    <string name="arrow">Arrow icon</string>
+    <string name="rectangle">Rectangle shapes</string>
+    <string name="ellipse">Ellipse shapes</string>
+    <string name="color_palette">Color palette</string>
+    <string name="paint_view">Paint view</string>
+</resources>

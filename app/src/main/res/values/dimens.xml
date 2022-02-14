@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin_left_right">41dp</dimen>
+    <dimen name="parent_margin">542dp</dimen>
+    <dimen name="icon_padding">38dp</dimen>
+    <dimen name="margin_top">54dp</dimen>
+</resources>
